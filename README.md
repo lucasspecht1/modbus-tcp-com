@@ -7,6 +7,7 @@ Modbus [![Build Status](https://travis-ci.org/Cloud-Automation/node-modbus.png)]
 
 💾 Status
 ------
+Ultima Revisão: 29/05/2024
 
 Versão 0.1.0 é uma versão estável funcional.
 
